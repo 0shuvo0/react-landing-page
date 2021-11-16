@@ -1,3 +1,12 @@
+/*
+
+  These codes will make sense after watching the part 2
+  Subscribe and turn on the notifications
+  So you will be notified when I upload the part 2
+  Channel link: https://www.youtube.com/c/AngleBrace
+
+*/
+
 import { init } from "./utils/initDroneLayer.js"
 import { useEffect } from "react"
 
